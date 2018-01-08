@@ -1,3 +1,4 @@
+# !/usr/bin/env python
 # Import psycopg2 to connect to the database
 
 import psycopg2
